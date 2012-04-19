@@ -4,6 +4,10 @@ Review Survey: http://bit.ly/storeengine
 
 ### Group A:
 
+* Christopher Maddox & Daniel Kaufman
+  * Code: www.store-engine.com/code
+  * Live: www.store-engine.com
+
 ### Group B: 
 
 * Mary Cutrali & Conan Rimmer
@@ -12,7 +16,15 @@ Review Survey: http://bit.ly/storeengine
 
 ### Group C:
 
+* Andrew Glass & Elise Worthy
+  * Code: https://github.com/eliseworthy/store_engine
+  * Live: http://whole-earth.herokuapp.com/
+
 ### Group D:
+
+* Nisarg Shah & Mike Silvis
+  * Code: https://github.com/mikesilvis/store_engine
+  * Live: http://ehipster.herokuapp.com/
 
 # Peer Evaluations
 
