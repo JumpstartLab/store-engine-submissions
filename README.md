@@ -4,8 +4,8 @@
   * Code:
   * Live:
 * Tom Kiefhaber & Chris Anderson
-  * Code:
-  * Live:
+  * Code: https://github.com/chrismanderson/store_engine
+  * Live: http://shoeengine.herokuapp.com
 * Christopher Maddox & Daniel Kaufman
   * Code:
   * Live:
