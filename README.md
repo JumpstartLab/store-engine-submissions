@@ -16,8 +16,8 @@
   * Code: https://github.com/marktabler/store_engine
   * Live: http://canned-horrors.heroku.com
 * Melanie Gilman & Austen Ito
-  * Code:
-  * Live:
+  * Code: https://github.com/mrgilman/store_engine
+  * Live: http://pugmug.herokuapp.com/
 * Mary Cutrali & Conan Rimmer
   * Code: https://maryelizbeth@github.com/maryelizbeth/store_engine.git
   * Live: http://storeengine.herokuapp.com/
