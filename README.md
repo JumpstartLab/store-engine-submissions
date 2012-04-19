@@ -7,8 +7,8 @@
   * Code: https://github.com/chrismanderson/store_engine
   * Live: http://shoeengine.herokuapp.com
 * Christopher Maddox & Daniel Kaufman
-  * Code: http://floating-leaf-2829.herokuapp.com/code
-  * Live: http://floating-leaf-2829.herokuapp.com
+  * Code: www.store-engine.com/code
+  * Live: www.store-engine.com
 
 ## Group 2 in the Classroom "High Country"
 
