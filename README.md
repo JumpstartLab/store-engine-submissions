@@ -31,8 +31,8 @@
   * Code: https://github.com/eliseworthy/store_engine
   * Live: http://whole-earth.herokuapp.com/
 * Jonan Scheffler & Darrell Rivera
-  * Code:
-  * Live:
+  * Code: http://github.com/darrellrivera/store_engine
+  * Live: http://magicengine.herokuapp.com/
 
 ## Group 4 in the Classroom "Low Country"
 
