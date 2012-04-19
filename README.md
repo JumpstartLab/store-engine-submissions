@@ -40,8 +40,8 @@
   * Code:
   * Live:
 * Horace Williams & Travis Valentine
-  * Code:
-  * Live:
+  * Code: https://github.com/travisvalentine/store_engine
+  * Live: http://woracesworkshop.herokuapp.com/
 * Michael Verdi & Andrew Thal
   * Code:
   * Live:
