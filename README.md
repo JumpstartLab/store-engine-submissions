@@ -13,8 +13,8 @@
 ## Group 2 in the Classroom "High Country"
 
 * Charles Strahan & Mark Tabler
-  * Code:
-  * Live:
+  * Code: https://github.com/marktabler/store_engine
+  * Live: http://canned-horrors.heroku.com
 * Melanie Gilman & Austen Ito
   * Code:
   * Live:
