@@ -7,8 +7,8 @@
   * Code:
   * Live:
 * Christopher Maddox & Daniel Kaufman
-  * Code:
-  * Live:
+  * Code: http://floating-leaf-2829.herokuapp.com/code
+  * Live: http://floating-leaf-2829.herokuapp.com
 
 ## Group 2 in the Classroom "High Country"
 
