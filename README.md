@@ -19,8 +19,8 @@
   * Code:
   * Live:
 * Mary Cutrali & Conan Rimmer
-  * Code:
-  * Live:
+  * Code: https://maryelizbeth@github.com/maryelizbeth/store_engine.git
+  * Live: http://storeengine.herokuapp.com/
 
 ## Group 3 in the "Extra Room"
 
