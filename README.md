@@ -28,8 +28,8 @@
   * Code: https://github.com/mikesea/store_engine
   * Live: http://radiant-mountain-3644.herokuapp.com
 * Andrew Glass & Elise Worthy
-  * Code:
-  * Live:
+  * Code: https://github.com/eliseworthy/store_engine
+  * Live: http://whole-earth.herokuapp.com/
 * Jonan Scheffler & Darrell Rivera
   * Code:
   * Live:
