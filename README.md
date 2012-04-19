@@ -25,8 +25,8 @@
 ## Group 3 in the "Extra Room"
 
 * Edward Weng & Michael Chlipala
-  * Code:
-  * Live:
+  * Code: https://github.com/mikesea/store_engine
+  * Live: http://radiant-mountain-3644.herokuapp.com
 * Andrew Glass & Elise Worthy
   * Code:
   * Live:
