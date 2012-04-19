@@ -4,8 +4,8 @@
   * Code: https://adigitalnative@github.com/adigitalnative/store_engine.git
   * Live: http://awesomestore.herokuapp.com
 * Tom Kiefhaber & Chris Anderson
-  * Code:
-  * Live:
+  * Code: https://github.com/chrismanderson/store_engine
+  * Live: http://shoeengine.herokuapp.com
 * Christopher Maddox & Daniel Kaufman
   * Code: http://floating-leaf-2829.herokuapp.com/code
   * Live: http://floating-leaf-2829.herokuapp.com
