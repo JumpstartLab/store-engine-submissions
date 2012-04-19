@@ -37,8 +37,8 @@
 ## Group 4 in the Classroom "Low Country"
 
 * Nisarg Shah & Mike Silvis
-  * Code:
-  * Live:
+  * Code: https://github.com/MikeSilvis/store_engine
+  * Live: http://ehipster.herokuapp.com
 * Horace Williams & Travis Valentine
   * Code:
   * Live:
