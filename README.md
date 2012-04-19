@@ -1,8 +1,8 @@
 ## Group 1 in the Fishbowl
 
 * Jacqueline Chenault & Jan Koszewski
-  * Code:
-  * Live:
+  * Code: https://adigitalnative@github.com/adigitalnative/store_engine.git
+  * Live: http://awesomestore.herokuapp.com
 * Tom Kiefhaber & Chris Anderson
   * Code:
   * Live:
