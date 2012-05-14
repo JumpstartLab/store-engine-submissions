@@ -56,7 +56,7 @@ Review Survey: http://bit.ly/storeengine
 
 * Edward Weng & Michael Chlipala
   * Code: https://github.com/mikesea/store_engine
-  * Live: http://radiant-mountain-3644.herokuapp.com
+  * Live: http://mittenberry.herokuapp.com
 * Andrew Glass & Elise Worthy
   * Code: https://github.com/eliseworthy/store_engine
   * Live: http://whole-earth.herokuapp.com/
